@@ -14,4 +14,4 @@ Place the unzipped file into the www directory in your WAMPServer. Start the ser
 
 ## Preview
 
-![StarLux Cinemas.jpg]
+![](images/StarLux Cinemas.jpg)
