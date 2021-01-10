@@ -7,7 +7,7 @@ session_start();
 $username = "";
 $password = "";
 
-$database = mysqli_connect('localhost', 'root', '', 'webfinal');
+$database = mysqli_connect('localhost', 'root', '', 'starlux_cinemas');
 
 
 
