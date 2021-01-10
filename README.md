@@ -10,7 +10,7 @@ The IMDB API was used to display movie posters on the main page, so all the data
 
 ## Running the Application
 
-Retrieve an API key from the IMDB API and input it into line 8 of the Movie_Info.php file.
+Retrieve an API key from the IMDB API and input it into line 9 of the Movie_Info.php file.
 Place the unzipped file into the www directory in your WAMPServer. Start the server and navigate to `localhost:8080/main-page.html` to view the input form.
 
 ## Preview
