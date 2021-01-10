@@ -6,7 +6,7 @@
 
     //function used to get all the info from the API about the movie
     function getImdbRecord($ImdbId){
-        $path = "http://www.omdbapi.com/?i=$ImdbId&apikey=fceeaa45";
+        $path = "http://www.omdbapi.com/?i=$ImdbId&apikey=";
         $json = file_get_contents($path);
         return json_decode($json, TRUE);
     }
